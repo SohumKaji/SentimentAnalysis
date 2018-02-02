@@ -1,6 +1,6 @@
 # SentimentAnalysis  
   
-#What:
+#What:  
 ➢Performed sentiment analysis word by word (unigrams and bigrams) on movie review text  
 ➢ Use SGD Classifiers to predict if new, unclassified reviews were positive or negative.
 ➢ Successfully classified over 95% of encountered movie review tweets as positive or negative. 
